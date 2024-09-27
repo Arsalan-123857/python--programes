@@ -1,0 +1,1 @@
+print("First Line\nSecond Line\n\Third Line")
